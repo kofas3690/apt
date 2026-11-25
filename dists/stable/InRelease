@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: all amd64 arm64 armhf
+Codename: stable
+Components: main
+Date: Wed, 25 Nov 2026 16:44:15 +0000
+Description: AdminPanel, a web control panel for Ubuntu and Debian servers
+Label: AdminPanel
+Origin: AdminPanel
+Suite: stable
+MD5Sum:
+ f90eb7eafcd111dc1ffdda2b440e162c             1642 main/binary-all/Packages
+ 5407e1dc29f22d529ddd24524f8b55f3             1029 main/binary-all/Packages.gz
+ f90eb7eafcd111dc1ffdda2b440e162c             1642 main/binary-amd64/Packages
+ 5407e1dc29f22d529ddd24524f8b55f3             1029 main/binary-amd64/Packages.gz
+ f90eb7eafcd111dc1ffdda2b440e162c             1642 main/binary-arm64/Packages
+ 5407e1dc29f22d529ddd24524f8b55f3             1029 main/binary-arm64/Packages.gz
+ f90eb7eafcd111dc1ffdda2b440e162c             1642 main/binary-armhf/Packages
+ 5407e1dc29f22d529ddd24524f8b55f3             1029 main/binary-armhf/Packages.gz
+SHA1:
+ 50b62f5c4728aaf62e76c01733d7b1875feba5fb             1642 main/binary-all/Packages
+ 9e810295c59846581f060856553e33eed95d02bd             1029 main/binary-all/Packages.gz
+ 50b62f5c4728aaf62e76c01733d7b1875feba5fb             1642 main/binary-amd64/Packages
+ 9e810295c59846581f060856553e33eed95d02bd             1029 main/binary-amd64/Packages.gz
+ 50b62f5c4728aaf62e76c01733d7b1875feba5fb             1642 main/binary-arm64/Packages
+ 9e810295c59846581f060856553e33eed95d02bd             1029 main/binary-arm64/Packages.gz
+ 50b62f5c4728aaf62e76c01733d7b1875feba5fb             1642 main/binary-armhf/Packages
+ 9e810295c59846581f060856553e33eed95d02bd             1029 main/binary-armhf/Packages.gz
+SHA256:
+ d61988b63de26124288cfaed1a12285b8a91fc733875e16c0522a2d7158d6179             1642 main/binary-all/Packages
+ 8d2060f4a5d441a4de75950039d83a82357d3eb6de5ff31eeadd7ca7848d3ea9             1029 main/binary-all/Packages.gz
+ d61988b63de26124288cfaed1a12285b8a91fc733875e16c0522a2d7158d6179             1642 main/binary-amd64/Packages
+ 8d2060f4a5d441a4de75950039d83a82357d3eb6de5ff31eeadd7ca7848d3ea9             1029 main/binary-amd64/Packages.gz
+ d61988b63de26124288cfaed1a12285b8a91fc733875e16c0522a2d7158d6179             1642 main/binary-arm64/Packages
+ 8d2060f4a5d441a4de75950039d83a82357d3eb6de5ff31eeadd7ca7848d3ea9             1029 main/binary-arm64/Packages.gz
+ d61988b63de26124288cfaed1a12285b8a91fc733875e16c0522a2d7158d6179             1642 main/binary-armhf/Packages
+ 8d2060f4a5d441a4de75950039d83a82357d3eb6de5ff31eeadd7ca7848d3ea9             1029 main/binary-armhf/Packages.gz
+SHA512:
+ 8dbad992f76ab9f515da4430f4fa4a4283ffd4dbd93ff5022d343d4e1651f214880ca98923ab515e0883a5641bd72c24ed525a666e4206a86bcb96bf645f98f1             1642 main/binary-all/Packages
+ fedcba0c22b5c7f88ac7736e6866a94a2cd147031a63d22b8613c7432eea6b1750297fdbd498cd251f0fb11ec15aea72762be69bd5f19987cc69a6d94e87cfc3             1029 main/binary-all/Packages.gz
+ 8dbad992f76ab9f515da4430f4fa4a4283ffd4dbd93ff5022d343d4e1651f214880ca98923ab515e0883a5641bd72c24ed525a666e4206a86bcb96bf645f98f1             1642 main/binary-amd64/Packages
+ fedcba0c22b5c7f88ac7736e6866a94a2cd147031a63d22b8613c7432eea6b1750297fdbd498cd251f0fb11ec15aea72762be69bd5f19987cc69a6d94e87cfc3             1029 main/binary-amd64/Packages.gz
+ 8dbad992f76ab9f515da4430f4fa4a4283ffd4dbd93ff5022d343d4e1651f214880ca98923ab515e0883a5641bd72c24ed525a666e4206a86bcb96bf645f98f1             1642 main/binary-arm64/Packages
+ fedcba0c22b5c7f88ac7736e6866a94a2cd147031a63d22b8613c7432eea6b1750297fdbd498cd251f0fb11ec15aea72762be69bd5f19987cc69a6d94e87cfc3             1029 main/binary-arm64/Packages.gz
+ 8dbad992f76ab9f515da4430f4fa4a4283ffd4dbd93ff5022d343d4e1651f214880ca98923ab515e0883a5641bd72c24ed525a666e4206a86bcb96bf645f98f1             1642 main/binary-armhf/Packages
+ fedcba0c22b5c7f88ac7736e6866a94a2cd147031a63d22b8613c7432eea6b1750297fdbd498cd251f0fb11ec15aea72762be69bd5f19987cc69a6d94e87cfc3             1029 main/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEgkZwrt9Nbgm528pYPFBGvMoB+fcFAmsHEF8ACgkQPFBGvMoB
++fdnsQ/+JdB3JaPyegZVjtUiJ2V+FKPxISZBcfd7/0Ym+Wb3ZPQIhC75bcOH3Lyk
++nY61ptGtwQL2iwBr6PQIeL2wMxiwrLsd7SIHOm7gRM9MwGZOgEY8YVmpeIG4mBO
+DOXOh/c8ESxJNbnP1WeUmsCMx9Ylt7GrK99JFUVWItC1yjMCfVHmOywl70yUpn5d
+FzjrOPyF7wulYT04lkFnP/nxP+heCqwnAEHWheJhkq5qe+SM8cw249aa9ytxbnVe
+SI6DkZv67+AdVqE1lJoNs9jSonbJr6pMmHhVlZtufp4+rEPnqE3oHIseEFeHO1+L
+0vxNNfr6HjJImSHGjhU3rCdV2iiKiJYNE0AdhI87ArBrOmyqsSP9Rd2s9CmxkQpa
+v4HPRbaI2Md9i7qIud/7tpcfaOm0Um0uy6mn62lWkPVwYUh/3elDI6L6IoKz7uYm
+ZzDbxpOa+sr2yuVkvX+m9iOqVrOlwA0mZdwqhvARDUyHsqA/5BVj0KKrxrd9jmmT
+qcO1m53yGzkAz1rmmiLoHv1vS8zdsHfsKDqWl3fQm1LNcUXJw35RvFbjUfx+6sFU
+X6ipKOORInn8b5+4KwIzNB+jwI9iKEsR5iVmwUqhJktebsfJglLMew71Jxnopd5Z
+5ScBwliMsFP8HJVOyBr+tTaJfzfHd+ivooxpxW0vxWHm6kb/icQ=
+=LHsq
+-----END PGP SIGNATURE-----

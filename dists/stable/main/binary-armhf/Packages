@@ -1,0 +1,23 @@
+Package: adminpanel
+Architecture: all
+Version: 6.49.0
+Priority: optional
+Section: admin
+Maintainer: Admin Panel <admin@localhost>
+Installed-Size: 2720
+Depends: python3 (>= 3.10), python3-venv, nginx, openssl, sudo, curl, iproute2, util-linux, systemd, openssh-client, openssh-server, systemd-sysv, adduser, passwd, procps, kmod, apt, dpkg, tar, e2fsprogs, iputils-ping, iputils-tracepath, bind9-dnsutils | dnsutils, cron | cron-daemon, ufw, fail2ban, smartmontools, unattended-upgrades
+Recommends: certbot, python3-certbot-nginx, cifs-utils, nfs-common, parted, lvm2, xfsprogs, mdadm, cryptsetup, open-iscsi, wireguard-tools, multipath-tools, targetcli-fb, dmidecode
+Suggests: docker.io, docker-compose-v2 | docker-compose-plugin, mariadb-client | mysql-client, postgresql-client, squid, msmtp-mta | mail-transport-agent, desktop-base
+Filename: pool/main/a/adminpanel/adminpanel_6.49.0_all.deb
+Size: 430752
+MD5sum: da0535746858f700feb2a54e7c19d406
+SHA1: e0109840a7294623a21edf0d353fdf5a568c3e33
+SHA256: 3a5e1819c077a18923925bbef74eab9363962036223141f72e408fedc977683b
+SHA512: b176fd482f450c2ea4a44f4436aa8b9dd02214d8e7b78a6a29753c24aaedabe0611129e1ad3ffcaa46d08a5571e2eeb15a4730215936790a40baea6960534388
+Description: Web administration panel for Ubuntu and Debian servers
+ A browser-based control panel: system overview, services, logs, software
+ updates, firewall, accounts, storage (partitions, LVM, RAID, encryption,
+ iSCSI), networking (interfaces, VLAN, bridges, bonds, VPN, proxy), a file
+ manager and a terminal. Privileged actions run through small root helpers
+ with strict validation. After installing, run: sudo adminpanel-setup
+
