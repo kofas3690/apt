@@ -136,3 +136,26 @@ Description: Web administration panel for Ubuntu and Debian servers
  manager and a terminal. Privileged actions run through small root helpers
  with strict validation. After installing, run: sudo adminpanel-setup
 
+Package: adminpanel
+Architecture: all
+Version: 6.53.0
+Priority: optional
+Section: admin
+Maintainer: Admin Panel <admin@localhost>
+Installed-Size: 2744
+Depends: python3 (>= 3.10), python3-venv, nginx, openssl, sudo, curl, iproute2, util-linux, systemd, openssh-client, openssh-server, systemd-sysv, adduser, passwd, procps, kmod, apt, dpkg, tar, e2fsprogs, iputils-ping, iputils-tracepath, bind9-dnsutils | dnsutils, cron | cron-daemon, ufw, fail2ban, smartmontools, unattended-upgrades
+Recommends: certbot, python3-certbot-nginx, cifs-utils, nfs-common, parted, lvm2, xfsprogs, mdadm, cryptsetup, open-iscsi, wireguard-tools, multipath-tools, targetcli-fb, dmidecode
+Suggests: docker.io, docker-compose-v2 | docker-compose-plugin, mariadb-client | mysql-client, postgresql-client, squid, msmtp-mta | mail-transport-agent, desktop-base
+Filename: pool/main/a/adminpanel/adminpanel_6.53.0_all.deb
+Size: 436748
+MD5sum: 4ab6d2ed6e976f66f5f3c3962e32e80b
+SHA1: 637e0ac5bfc63339f0bfe60db2e1d5be16f11f2d
+SHA256: 615e3d62641734ebc062ffcd765413d15a41ee7682bdfb6fe5274b4534219e76
+SHA512: 3a044a2a7f85ae51615753f4df46db648937cb9cd4d3d29b18e3847722a1eafeb0f9bdc358f3636b2c84b702526189de6f7318f7aedbec2550f5a5a2f4b53cbc
+Description: Web administration panel for Ubuntu and Debian servers
+ A browser-based control panel: system overview, services, logs, software
+ updates, firewall, accounts, storage (partitions, LVM, RAID, encryption,
+ iSCSI), networking (interfaces, VLAN, bridges, bonds, VPN, proxy), a file
+ manager and a terminal. Privileged actions run through small root helpers
+ with strict validation. After installing, run: sudo adminpanel-setup
+
